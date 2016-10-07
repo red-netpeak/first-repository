@@ -7,6 +7,13 @@
   <body>
   first page, first page
 
+  Here is result of merge
+<<<<<<< HEAD
+
   Bad Bad Bad
+=======
+  фрффрфрфрфр
+  АХааХХХАа
+>>>>>>> red
   </body>
 </html>

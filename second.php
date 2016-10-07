@@ -6,7 +6,16 @@
   </head>
   <body>
     Some text, some text, some-text
+    And Here IS too)))
+<<<<<<< HEAD
 
     This file is good!
+=======
+                :::::
+            :::::   :::::
+        :::::           :::::
+    :::::                   :::::
+::::::::::::::::::::::::::::::::::::::
+>>>>>>> red
   </body>
 </html>
